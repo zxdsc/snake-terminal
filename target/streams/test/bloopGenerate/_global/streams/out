@@ -1,0 +1,4 @@
+[debug] [snake-test] Classpath dependencies List()
+[debug] [snake-test] Dependencies from configurations List(snake)
+[debug] Bloop wrote the configuration of project 'snake-test' to '/home/borispotapov/Documents/learning/scala/projects/snake/snake/.bloop/snake-test.json'
+[success] Generated .bloop/snake-test.json
